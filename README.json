@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T19:36:57Z",
+            "last_commit": "2026-08-13T13:43:23Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 18995
+            "stars": 18999
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22961
+            "stars": 22962
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:09.892Z",
+    "last_updated": "2026-08-13T17:06:47.359Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",
