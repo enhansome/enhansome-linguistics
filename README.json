@@ -1,0 +1,444 @@
+{
+  "items": [
+    {
+      "description": "Libraries, frameworks and applications useful for developing applications.",
+      "items": [],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Natural",
+          "description": "General natural language tools for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-22T21:53:54Z",
+            "owner": "NaturalNode",
+            "repo": "natural",
+            "stars": 10878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textblob-de",
+          "description": "Nice alternative for spacy (see above).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-07T20:23:17Z",
+            "owner": "markuskiller",
+            "repo": "textblob-de",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UralicNLP",
+          "description": "An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-12T15:06:33Z",
+            "owner": "mikahama",
+            "repo": "uralicNLP",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haxe-linguistics",
+          "description": "Early linguistical analysis and natural language processing library for Haxe.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haxe",
+            "last_commit": "2021-05-10T08:19:10Z",
+            "owner": "martijndeb",
+            "repo": "haxe-linguistics",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tyo",
+          "description": "A utility for finding Typo-Bridges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-11T15:01:46Z",
+            "owner": "mongsvo",
+            "repo": "tyo",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Platforms and toolkits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EuroRomCom Data",
+          "description": "JSON formatted Pan-Romance word lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-26T15:25:35Z",
+            "owner": "kirkins",
+            "repo": "EuroRomCom",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DysList (list of dyslexic errors)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-01-09T07:56:31Z",
+            "owner": "Rauschii",
+            "repo": "DysListGerman",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpinionSpam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-24T15:43:34Z",
+            "owner": "hdaSprachtechnologie",
+            "repo": "OpinionSpam",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Data sets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sentence Transformers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:36:57Z",
+            "owner": "huggingface",
+            "repo": "sentence-transformers",
+            "stars": 18995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbmdz BERT models",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-06T21:01:32Z",
+            "owner": "dbmdz",
+            "repo": "berts",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "German ELMo Model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-15T19:46:35Z",
+            "owner": "t-systems-on-site-services-gmbh",
+            "repo": "german-elmo-model",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "german-transformer-training",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-22T19:11:56Z",
+            "owner": "German-NLP-Group",
+            "repo": "german-transformer-training",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GerPT2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-11T09:15:49Z",
+            "owner": "bminixhofer",
+            "repo": "gerpt2",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GermLM",
+          "description": "(NER exploration)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-04-30T13:38:26Z",
+            "owner": "tonianelope",
+            "repo": "Multilingual-BERT",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evaluating German Transformer Language Models with Syntactic Agreement Tests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-12T21:27:55Z",
+            "owner": "DFKI-NLP",
+            "repo": "gevalm",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Deep learning models and transformers"
+    },
+    {
+      "description": "Some of the more interesting and complete books.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NLP-progress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T00:44:25Z",
+            "owner": "sebastianruder",
+            "repo": "NLP-progress",
+            "stars": 22961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-nlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T20:57:17Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-chinese-nlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-27T02:54:52Z",
+            "owner": "crownpku",
+            "repo": "Awesome-Chinese-NLP",
+            "stars": 7929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nlp-datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-15T13:58:35Z",
+            "owner": "niderhoff",
+            "repo": "nlp-datasets",
+            "stars": 5992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome Information Retrieval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-20T07:55:24Z",
+            "owner": "harpribot",
+            "repo": "awesome-information-retrieval",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "German NLP resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-30T15:05:49Z",
+            "owner": "adbar",
+            "repo": "German-NLP",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-spanish-nlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-09T08:58:34Z",
+            "owner": "dav009",
+            "repo": "awesome-spanish-nlp",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-nlp-polish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-08T05:14:02Z",
+            "owner": "ksopyla",
+            "repo": "awesome-nlp-polish",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indonesian NLP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-18T08:48:55Z",
+            "owner": "kmkurn",
+            "repo": "id-nlp-resource",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-hungarian-nlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-14T08:55:18Z",
+            "owner": "oroszgy",
+            "repo": "awesome-hungarian-nlp",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Community-Curated NLP List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-25T09:07:59Z",
+            "owner": "alvations",
+            "repo": "awesome-community-curated-nlp",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-danish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-11T13:08:59Z",
+            "owner": "fnielsen",
+            "repo": "awesome-danish",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Norwegian NLP resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-24T16:07:28Z",
+            "owner": "web64",
+            "repo": "norwegian-nlp-resources",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub topics corpus-linguistics",
+          "description": "& nlp",
+          "children": []
+        }
+      ],
+      "title": "Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:57:09.892Z",
+    "original_repository": "theimpossibleastronaut/awesome-linguistics",
+    "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
+    "enhanced_repository": "enhansome/enhansome-linguistics",
+    "enhanced_repository_description": null,
+    "title": "Awesome linguistics with stars"
+  }
+}
