@@ -143,7 +143,7 @@
             "last_commit": "2026-08-14T15:14:00Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19010
+            "stars": 19013
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-07-11T20:57:17Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18905
+            "stars": 18907
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5992
+            "stars": 5993
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:36:06.536Z",
+    "last_updated": "2026-08-16T16:36:30.933Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",
