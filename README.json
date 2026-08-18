@@ -19,7 +19,7 @@
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10878
+            "stars": 10879
           }
         },
         {
@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T15:06:38Z",
+            "last_commit": "2026-08-18T15:37:55Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19013
+            "stars": 19015
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22958
+            "stars": 22956
           }
         },
         {
@@ -266,7 +266,7 @@
             "last_commit": "2026-07-11T20:57:17Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18907
+            "stars": 18905
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5993
+            "stars": 5994
           }
         },
         {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:39:12.832Z",
+    "last_updated": "2026-08-18T16:43:00.802Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",
