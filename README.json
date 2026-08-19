@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Libraries, frameworks and applications useful for developing applications.",
-      "items": [],
-      "title": "Programming"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1714160,
             "language": "JavaScript",
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10879
+            "stars": 10878
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21608591,
             "language": "Python",
             "last_commit": "2025-01-07T20:23:17Z",
             "owner": "markuskiller",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113453169,
             "language": "Python",
             "last_commit": "2026-03-12T15:06:33Z",
             "owner": "mikahama",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22731104,
             "language": "Haxe",
             "last_commit": "2021-05-10T08:19:10Z",
             "owner": "martijndeb",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 917874898,
             "language": "Rust",
             "last_commit": "2025-02-11T15:01:46Z",
             "owner": "mongsvo",
@@ -82,7 +82,7 @@
       "title": "Platforms and toolkits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84582916,
             "language": "JavaScript",
             "last_commit": "2017-10-26T15:25:35Z",
             "owner": "kirkins",
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56374676,
             "language": "CSS",
             "last_commit": "2019-01-09T07:56:31Z",
             "owner": "Rauschii",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100953598,
             "language": null,
             "last_commit": "2017-08-24T15:43:34Z",
             "owner": "hdaSprachtechnologie",
@@ -130,7 +133,7 @@
       "title": "Data sets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198616978,
             "language": "Python",
             "last_commit": "2026-08-18T15:37:55Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19015
+            "stars": 19019
           }
         },
         {
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209994578,
             "language": null,
             "last_commit": "2022-12-06T21:01:32Z",
             "owner": "dbmdz",
@@ -167,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194482834,
             "language": null,
             "last_commit": "2019-12-15T19:46:35Z",
             "owner": "t-systems-on-site-services-gmbh",
@@ -181,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275426248,
             "language": "Python",
             "last_commit": "2021-02-22T19:11:56Z",
             "owner": "German-NLP-Group",
@@ -195,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311728858,
             "language": "Python",
             "last_commit": "2022-05-11T09:15:49Z",
             "owner": "bminixhofer",
@@ -209,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165268398,
             "language": "Jupyter Notebook",
             "last_commit": "2019-04-30T13:38:26Z",
             "owner": "tonianelope",
@@ -223,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261828410,
             "language": "Python",
             "last_commit": "2023-06-12T21:27:55Z",
             "owner": "DFKI-NLP",
@@ -234,12 +244,7 @@
       "title": "Deep learning models and transformers"
     },
     {
-      "description": "Some of the more interesting and complete books.",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -248,11 +253,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138331573,
             "language": "Python",
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956
+            "stars": 22955
           }
         },
         {
@@ -262,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47184304,
             "language": null,
-            "last_commit": "2026-07-11T20:57:17Z",
+            "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18905
+            "stars": 18907
           }
         },
         {
@@ -276,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97191792,
             "language": null,
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
@@ -290,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54647141,
             "language": null,
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5994
+            "stars": 5995
           }
         },
         {
@@ -304,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72507105,
             "language": null,
             "last_commit": "2023-04-20T07:55:24Z",
             "owner": "harpribot",
@@ -318,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137056286,
             "language": null,
             "last_commit": "2024-10-30T15:05:49Z",
             "owner": "adbar",
@@ -332,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31857551,
             "language": null,
             "last_commit": "2024-01-09T08:58:34Z",
             "owner": "dav009",
@@ -346,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230600593,
             "language": null,
             "last_commit": "2021-08-08T05:14:02Z",
             "owner": "ksopyla",
@@ -360,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128495314,
             "language": null,
             "last_commit": "2022-01-18T08:48:55Z",
             "owner": "kmkurn",
@@ -374,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88435597,
             "language": null,
             "last_commit": "2026-04-14T08:55:18Z",
             "owner": "oroszgy",
@@ -388,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85201994,
             "language": null,
             "last_commit": "2022-07-25T09:07:59Z",
             "owner": "alvations",
@@ -402,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146891571,
             "language": null,
             "last_commit": "2024-12-11T13:08:59Z",
             "owner": "fnielsen",
@@ -416,26 +433,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76953125,
             "language": null,
             "last_commit": "2021-03-24T16:07:28Z",
             "owner": "web64",
             "repo": "norwegian-nlp-resources",
             "stars": 182
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub topics corpus-linguistics",
-          "description": "& nlp",
-          "children": []
         }
       ],
       "title": "Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:43:00.802Z",
+    "last_updated": "2026-08-19T12:39:02.135Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
+    "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",
     "enhanced_repository_description": null,
