@@ -147,7 +147,7 @@
             "last_commit": "2026-08-19T15:10:07Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19019
+            "stars": 19023
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18906
+            "stars": 18914
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7926
+            "stars": 7925
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:41:44.916Z",
+    "last_updated": "2026-08-20T16:46:52.612Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
