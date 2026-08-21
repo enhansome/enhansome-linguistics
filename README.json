@@ -144,10 +144,10 @@
             "archived": false,
             "id": 198616978,
             "language": "Python",
-            "last_commit": "2026-08-19T15:10:07Z",
+            "last_commit": "2026-08-21T06:52:41Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19023
+            "stars": 19024
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954
+            "stars": 22952
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18914
+            "stars": 18918
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2024-10-30T15:05:49Z",
             "owner": "adbar",
             "repo": "German-NLP",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2022-01-18T08:48:55Z",
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:46:52.612Z",
+    "last_updated": "2026-08-21T16:46:53.999Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
