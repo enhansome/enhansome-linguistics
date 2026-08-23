@@ -15,7 +15,7 @@
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10878
+            "stars": 10879
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18919
+            "stars": 18924
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
+            "stars": 5994
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:35:34.153Z",
+    "last_updated": "2026-08-23T16:36:53.906Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",

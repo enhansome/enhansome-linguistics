@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,902 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,207 | 🐛 106 | 📅 2026-08-21
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -28,7 +28,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 
-* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,878 | 🐛 87 | 🌐 JavaScript | 📅 2026-02-22 - General natural language tools for Node.js.
+* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,879 | 🐛 87 | 🌐 JavaScript | 📅 2026-02-22 - General natural language tools for Node.js.
 * [textblob-de](https://github.com/markuskiller/textblob-de) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-01-07 - Nice alternative for spacy (see above).
 * [UralicNLP](https://github.com/mikahama/uralicNLP) ⭐ 100 | 🐛 0 | 🌐 Python | 📅 2026-03-12 - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) ⚠️ Archived - Early linguistical analysis and natural language processing library for Haxe.
@@ -64,7 +64,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Resources
 
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 455 | 🐛 2 | 🌐 TeX | 📅 2026-06-26 - A list of resources for conservation, development, and documentation of low resource (human) languages.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 456 | 🐛 2 | 🌐 TeX | 📅 2026-06-26 - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### Deep learning models and transformers
@@ -124,9 +124,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Lists
 
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,919 | 🐛 12 | 📅 2026-08-18
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,924 | 🐛 13 | 📅 2026-08-18
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,925 | 🐛 11 | 📅 2023-07-27
-* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,199 | 🐛 8 | 📅 2023-04-20
 * [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 531 | 🐛 1 | 📅 2024-10-30
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 351 | 🐛 7 | 📅 2024-01-09
@@ -147,4 +147,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
