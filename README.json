@@ -15,7 +15,7 @@
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10879
+            "stars": 10881
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-21T06:52:41Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19029
+            "stars": 19030
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18924
+            "stars": 18926
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:36:53.906Z",
+    "last_updated": "2026-08-24T14:28:02.699Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
