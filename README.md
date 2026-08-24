@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,518 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,547 | 🐛 106 | 📅 2026-08-21
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -124,7 +124,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Lists
 
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,952 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,927 | 🐛 13 | 📅 2026-08-18
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,925 | 🐛 11 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,994 | 🐛 12 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,199 | 🐛 8 | 📅 2023-04-20
