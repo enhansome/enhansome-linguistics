@@ -147,7 +147,7 @@
             "last_commit": "2026-08-21T06:52:41Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19032
+            "stars": 19033
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2024-10-30T15:05:49Z",
             "owner": "adbar",
             "repo": "German-NLP",
-            "stars": 531
+            "stars": 532
           }
         },
         {
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:46.025Z",
+    "last_updated": "2026-08-25T16:50:02.050Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "original_repository_id": 25396477,
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
