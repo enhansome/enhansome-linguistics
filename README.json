@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "general natural language facilities for node",
+            "homepage": null,
             "id": 1714160,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-22T21:53:54Z",
+            "open_issues": 87,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10881
+            "stars": 10881,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -26,12 +31,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "German language support for TextBlob.",
+            "homepage": "https://textblob-de.readthedocs.org",
             "id": 21608591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-07T20:23:17Z",
+            "open_issues": 11,
             "owner": "markuskiller",
             "repo": "textblob-de",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "natural-language-processing",
+              "nlp",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -42,12 +56,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An NLP library for Uralic languages such as Finnish, Skolt Sami, Moksha and so on. Also supporting some non-Uralic languages such as Spanish, French, Arabic, Swedish, Norwegian, Russian and English. LLMs, FSTs and More!",
+            "homepage": "http://uralicnlp.com/",
             "id": 113453169,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-12T15:06:33Z",
+            "open_issues": 0,
             "owner": "mikahama",
             "repo": "uralicNLP",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "clustering",
+              "conll-u",
+              "constraint-grammar",
+              "dutch",
+              "finnish",
+              "french",
+              "fst",
+              "german",
+              "large-language-model",
+              "lemmatizer",
+              "llm",
+              "moksha",
+              "morphological-analysis",
+              "morphological-generation",
+              "nlp-library",
+              "russian",
+              "sami",
+              "spanish",
+              "swedish",
+              "uralic-languages"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -58,12 +98,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Linguistical analysis and natural language processing library for Haxe.",
+            "homepage": null,
             "id": 22731104,
             "language": "Haxe",
+            "license": "MIT",
             "last_commit": "2021-05-10T08:19:10Z",
+            "open_issues": 0,
             "owner": "martijndeb",
             "repo": "haxe-linguistics",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "haxe",
+              "library",
+              "linguistics",
+              "natural-language-processing",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -74,12 +125,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility for finding Typo-Bridges",
+            "homepage": null,
             "id": 917874898,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-11T15:01:46Z",
+            "open_issues": 0,
             "owner": "mongsvo",
             "repo": "tyo",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ambiguity",
+              "art",
+              "typo",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         }
@@ -96,12 +157,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇪🇺 Resources and Learning Games for European Romance Language Communication",
+            "homepage": "https://kirkins.github.io/EuroRomCom/",
             "id": 84582916,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-26T15:25:35Z",
+            "open_issues": 2,
             "owner": "kirkins",
             "repo": "EuroRomCom",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "language",
+              "language-learning",
+              "romance-languages"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -112,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DysList, a list of dyslexic errors annotated with linguistic, phonetic and visual features. Presented 2016 at the LREC conference: Rauschenberger, Maria; Rello, Luz; Füchse, Silke & Thomaschewski, Jörg. 2016.  A Language Resource of German Errors Written by Children with Dyslexia. [In Press] Proc. LREC 2016. Portorož (Slovenia), 23-28, May. The Resource and further information are also available at the Web Research Group from UPF at http://grupoweb.upf.es/WRG/DysWebxia.php?lang=#resources",
+            "homepage": null,
             "id": 56374676,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-01-09T07:56:31Z",
+            "open_issues": 1,
             "owner": "Rauschii",
             "repo": "DysListGerman",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -128,12 +203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "German Opionion Spam Corpus",
+            "homepage": null,
             "id": 100953598,
             "language": null,
+            "license": null,
             "last_commit": "2017-08-24T15:43:34Z",
+            "open_issues": 0,
             "owner": "hdaSprachtechnologie",
             "repo": "OpinionSpam",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         }
@@ -150,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
+            "homepage": "https://www.sbert.net",
             "id": 198616978,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:14:09Z",
+            "open_issues": 1319,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19046
+            "stars": 19047,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -166,12 +251,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DBMDZ BERT, DistilBERT, ELECTRA, GPT-2 and ConvBERT models",
+            "homepage": null,
             "id": 209994578,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-12-06T21:01:32Z",
+            "open_issues": 23,
             "owner": "dbmdz",
             "repo": "berts",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "bert",
+              "bert-model",
+              "electra",
+              "german",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -182,12 +278,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a german ELMo deep contextualized word representation. It is trained on a special German Wikipedia Text Corpus.",
+            "homepage": "https://www.t-systems-onsite.de/impressum",
             "id": 194482834,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2019-12-15T19:46:35Z",
+            "open_issues": 0,
             "owner": "t-systems-on-site-services-gmbh",
             "repo": "german-elmo-model",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "bilm",
+              "elmo",
+              "embedding",
+              "german",
+              "machine-learning",
+              "nlp",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -198,12 +308,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plan and train German transformer models.",
+            "homepage": null,
             "id": 275426248,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-02-22T19:11:56Z",
+            "open_issues": 0,
             "owner": "German-NLP-Group",
             "repo": "german-transformer-training",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "bert",
+              "huggingface",
+              "roberta",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -214,12 +334,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "German small and large versions of GPT2.",
+            "homepage": null,
             "id": 311728858,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-11T09:15:49Z",
+            "open_issues": 0,
             "owner": "bminixhofer",
             "repo": "gerpt2",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "common-crawl",
+              "german",
+              "gpt2",
+              "language-model",
+              "machine-learning",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -230,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Investigating multilingual language models (BERT) by using them for NER in German and English",
+            "homepage": null,
             "id": 165268398,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-04-30T13:38:26Z",
+            "open_issues": 0,
             "owner": "tonianelope",
             "repo": "Multilingual-BERT",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -246,12 +383,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and data for the paper \"Evaluating German Transformer Language Models with Syntactic Agreement Tests\" (Zaczynska et al., 2020)",
+            "homepage": null,
             "id": 261828410,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-12T21:27:55Z",
+            "open_issues": 1,
             "owner": "DFKI-NLP",
             "repo": "gevalm",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "bert",
+              "german",
+              "syntactic-agreement",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         }
@@ -268,12 +415,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+            "homepage": "https://nlpprogress.com/",
             "id": 138331573,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-28T00:44:25Z",
+            "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954
+            "stars": 22954,
+            "topics": [
+              "dialogue",
+              "machine-learning",
+              "machine-translation",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "nlp-tasks"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -284,12 +443,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 47184304,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
+            "open_issues": 15,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18940
+            "stars": 18940,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "language",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -300,12 +473,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Chinese NLP 中文自然语言处理相关资料",
+            "homepage": null,
             "id": 97191792,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7926
+            "stars": 7926,
+            "topics": [
+              "chinese-nlp",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -316,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 54647141,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-15T13:58:35Z",
+            "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
+            "stars": 5995,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -332,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome information retrieval resources",
+            "homepage": null,
             "id": 72507105,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-04-20T07:55:24Z",
+            "open_issues": 9,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1201
+            "stars": 1201,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -348,12 +539,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German",
+            "homepage": null,
             "id": 137056286,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-30T15:05:49Z",
+            "open_issues": 1,
             "owner": "adbar",
             "repo": "German-NLP",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "computational-linguistics",
+              "corpus-linguistics",
+              "german-language",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -364,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of Linguistic Resources for doing NLP & CL on Spanish",
+            "homepage": null,
             "id": 31857551,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-09T08:58:34Z",
+            "open_issues": 7,
             "owner": "dav009",
             "repo": "awesome-spanish-nlp",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -380,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources dedicated to Natural Language Processing (NLP) in polish. Models, tools, datasets.",
+            "homepage": null,
             "id": 230600593,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-08-08T05:14:02Z",
+            "open_issues": 0,
             "owner": "ksopyla",
             "repo": "awesome-nlp-polish",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "datasets",
+              "nlp",
+              "nlp-machine-learning",
+              "polish-language"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -396,12 +614,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Indonesian NLP resources.",
+            "homepage": null,
             "id": 128495314,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-18T08:48:55Z",
+            "open_issues": 1,
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
-            "stars": 288
+            "stars": 288,
+            "topics": [
+              "corpus-linguistics",
+              "indonesian-language",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -412,12 +639,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of NLP resources for Hungarian",
+            "homepage": "https://oroszgy.gitbook.io/awesome-hungarian-nlp-resources/",
             "id": 88435597,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-14T08:55:18Z",
+            "open_issues": 6,
             "owner": "oroszgy",
             "repo": "awesome-hungarian-nlp",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computational-linguistics",
+              "corpus",
+              "corpus-linguistics",
+              "dataset",
+              "hungarian",
+              "hungarian-language",
+              "information-extraction",
+              "information-retrieval",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "nlp",
+              "nlp-resources",
+              "nlu",
+              "opinion-mining",
+              "parser",
+              "tagger",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -428,12 +681,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community Curated NLP List",
+            "homepage": null,
             "id": 85201994,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-25T09:07:59Z",
+            "open_issues": 0,
             "owner": "alvations",
             "repo": "awesome-community-curated-nlp",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "awesome-list",
+              "community-driven",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -444,12 +706,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Danish language technology",
+            "homepage": null,
             "id": 146891571,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-12-11T13:08:59Z",
+            "open_issues": 0,
             "owner": "fnielsen",
             "repo": "awesome-danish",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "danish"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         },
@@ -460,12 +731,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Norwegian NLP Resources",
+            "homepage": "https://www.facebook.com/groups/nlpnorway/",
             "id": 76953125,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-03-24T16:07:28Z",
+            "open_issues": 1,
             "owner": "web64",
             "repo": "norwegian-nlp-resources",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "bokmal",
+              "nlp",
+              "norway",
+              "norwegian",
+              "nynorsk"
+            ]
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
         }
@@ -474,15 +756,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:31:52.243Z",
+    "last_updated": "2026-08-29T04:49:20.047Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of anything remotely related to linguistics",
+      "homepage": null,
       "id": 25396477,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-02-12T19:09:16Z",
+      "open_issues": 0,
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 452
+      "stars": 452,
+      "topics": [
+        "awesome-list",
+        "language",
+        "linguistics",
+        "resources"
+      ]
     },
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",

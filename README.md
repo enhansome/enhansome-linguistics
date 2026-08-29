@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,854 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -69,7 +69,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,046 | 🐛 1,319 | 🌐 Python | 📅 2026-08-27
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,047 | 🐛 1,319 | 🌐 Python | 📅 2026-08-27
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 23 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
