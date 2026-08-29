@@ -15,8 +15,9 @@
             "last_commit": "2026-02-22T21:53:54Z",
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10880
-          }
+            "stars": 10881
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "markuskiller",
             "repo": "textblob-de",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mikahama",
             "repo": "uralicNLP",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "martijndeb",
             "repo": "haxe-linguistics",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mongsvo",
             "repo": "tyo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         }
       ],
       "title": "Platforms and toolkits"
@@ -97,7 +102,8 @@
             "owner": "kirkins",
             "repo": "EuroRomCom",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "Rauschii",
             "repo": "DysListGerman",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "hdaSprachtechnologie",
             "repo": "OpinionSpam",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         }
       ],
       "title": "Data sets"
@@ -147,8 +155,9 @@
             "last_commit": "2026-08-27T20:14:09Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19040
-          }
+            "stars": 19046
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "dbmdz",
             "repo": "berts",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "t-systems-on-site-services-gmbh",
             "repo": "german-elmo-model",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "German-NLP-Group",
             "repo": "german-transformer-training",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "bminixhofer",
             "repo": "gerpt2",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "tonianelope",
             "repo": "Multilingual-BERT",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "DFKI-NLP",
             "repo": "gevalm",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         }
       ],
       "title": "Deep learning models and transformers"
@@ -259,7 +274,8 @@
             "owner": "sebastianruder",
             "repo": "NLP-progress",
             "stars": 22954
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18937
-          }
+            "stars": 18940
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -288,8 +305,9 @@
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925
-          }
+            "stars": 7926
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "niderhoff",
             "repo": "nlp-datasets",
             "stars": 5995
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
             "stars": 1201
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "adbar",
             "repo": "German-NLP",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "dav009",
             "repo": "awesome-spanish-nlp",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "ksopyla",
             "repo": "awesome-nlp-polish",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "oroszgy",
             "repo": "awesome-hungarian-nlp",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "alvations",
             "repo": "awesome-community-curated-nlp",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "fnielsen",
             "repo": "awesome-danish",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         },
         {
           "node_type": "item",
@@ -439,14 +466,15 @@
             "owner": "web64",
             "repo": "norwegian-nlp-resources",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-29T00:31:52.243Z"
         }
       ],
       "title": "Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:32.381Z",
+    "last_updated": "2026-08-29T00:31:52.243Z",
     "original_repository_info": {
       "archived": false,
       "id": 25396477,
@@ -454,7 +482,7 @@
       "last_commit": "2026-02-12T19:09:16Z",
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 451
+      "stars": 452
     },
     "original_repository_sha": "e63b8f7f76857b0e455b73ddcfaa3fdcd13ca387",
     "enhanced_repository": "enhansome/enhansome-linguistics",
