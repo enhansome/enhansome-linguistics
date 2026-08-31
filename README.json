@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T20:14:09Z",
-            "open_issues": 1319,
+            "last_commit": "2026-08-31T13:38:19Z",
+            "open_issues": 1308,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19047,
+            "stars": 19054,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22953,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18948,
+            "stars": 18953,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925,
+            "stars": 7926,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -506,7 +506,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995,
+            "stars": 5996,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:17:04.137Z",
+    "last_updated": "2026-08-31T21:26:34.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
@@ -768,7 +768,7 @@
       "open_issues": 0,
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 452,
+      "stars": 453,
       "topics": [
         "awesome-list",
         "language",
