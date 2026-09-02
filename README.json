@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T14:31:22Z",
-            "open_issues": 1294,
+            "last_commit": "2026-09-02T13:41:59Z",
+            "open_issues": 1291,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19057,
+            "stars": 19062,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -452,7 +452,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18956,
+            "stars": 18961,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7925,
+            "stars": 7926,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:21:37.477Z",
+    "last_updated": "2026-09-02T19:21:29.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
