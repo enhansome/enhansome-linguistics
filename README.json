@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10881,
+            "stars": 10880,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T11:32:56Z",
-            "open_issues": 1307,
+            "last_commit": "2026-09-15T16:03:07Z",
+            "open_issues": 1304,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19094,
+            "stars": 19097,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22951,
+            "stars": 22952,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19000,
+            "stars": 19001,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7923,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -506,7 +506,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5998,
+            "stars": 5999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -715,7 +715,7 @@
             "open_issues": 0,
             "owner": "fnielsen",
             "repo": "awesome-danish",
-            "stars": 197,
+            "stars": 198,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:16:43.446Z",
+    "last_updated": "2026-09-15T19:40:01.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
@@ -768,7 +768,7 @@
       "open_issues": 0,
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 453,
+      "stars": 454,
       "topics": [
         "awesome-list",
         "language",
