@@ -65,7 +65,7 @@
             "open_issues": 0,
             "owner": "mikahama",
             "repo": "uralicNLP",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "clustering",
               "conll-u",
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T10:38:10Z",
-            "open_issues": 1342,
+            "open_issues": 1344,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19130,
+            "stars": 19137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -452,7 +452,7 @@
             "open_issues": 24,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19045,
+            "stars": 19044,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7920,
+            "stars": 7922,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:51:51.374Z",
+    "last_updated": "2026-09-29T20:41:13.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
