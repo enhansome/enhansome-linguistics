@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10879,
+            "stars": 10880,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -61,7 +61,7 @@
             "id": 113453169,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T14:37:55Z",
+            "last_commit": "2026-09-30T08:42:48Z",
             "open_issues": 0,
             "owner": "mikahama",
             "repo": "uralicNLP",
@@ -236,7 +236,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T10:38:10Z",
-            "open_issues": 1344,
+            "open_issues": 1350,
             "owner": "huggingface",
             "repo": "sentence-transformers",
             "stars": 19137,
@@ -452,7 +452,7 @@
             "open_issues": 24,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19044,
+            "stars": 19045,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7922,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -527,7 +527,7 @@
             "open_issues": 10,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1205,
+            "stars": 1206,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:41:13.089Z",
+    "last_updated": "2026-09-30T20:44:58.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
