@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,686 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -64,7 +64,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Resources
 
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 459 | 🐛 4 | 🌐 TeX | 📅 2026-06-26 - A list of resources for conservation, development, and documentation of low resource (human) languages.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 459 | 🐛 2 | 🌐 TeX | 📅 2026-10-02 - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### Deep learning models and transformers
@@ -123,8 +123,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 
-* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,951 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,047 | 🐛 26 | 📅 2026-09-07
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,950 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,049 | 🐛 27 | 📅 2026-09-07
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,921 | 🐛 10 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,003 | 🐛 12 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,206 | 🐛 10 | 📅 2023-04-20
@@ -147,4 +147,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

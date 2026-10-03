@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "DysList (list of dyslexic errors)",
-          "description": null,
+          "description": "Rauschii/DysListGerman",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -199,7 +199,7 @@
         {
           "node_type": "item",
           "title": "OpinionSpam",
-          "description": null,
+          "description": "hdaSprachtechnologie/OpinionSpam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "Sentence Transformers",
-          "description": null,
+          "description": "huggingface/sentence-transformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +247,7 @@
         {
           "node_type": "item",
           "title": "dbmdz BERT models",
-          "description": null,
+          "description": "dbmdz/berts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "German ELMo Model",
-          "description": null,
+          "description": "t-systems-on-site-services-gmbh/german-elmo-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "german-transformer-training",
-          "description": null,
+          "description": "German-NLP-Group/german-transformer-training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -330,7 +330,7 @@
         {
           "node_type": "item",
           "title": "GerPT2",
-          "description": null,
+          "description": "bminixhofer/gerpt2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -379,7 +379,7 @@
         {
           "node_type": "item",
           "title": "Evaluating German Transformer Language Models with Syntactic Agreement Tests",
-          "description": null,
+          "description": "DFKI-NLP/gevalm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -411,7 +411,7 @@
         {
           "node_type": "item",
           "title": "NLP-progress",
-          "description": null,
+          "description": "sebastianruder/NLP-progress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22951,
+            "stars": 22950,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -439,7 +439,7 @@
         {
           "node_type": "item",
           "title": "awesome-nlp",
-          "description": null,
+          "description": "keon/awesome-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19047,
+            "stars": 19049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -469,7 +469,7 @@
         {
           "node_type": "item",
           "title": "awesome-chinese-nlp",
-          "description": null,
+          "description": "crownpku/Awesome-Chinese-NLP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -493,7 +493,7 @@
         {
           "node_type": "item",
           "title": "nlp-datasets",
-          "description": null,
+          "description": "niderhoff/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +514,7 @@
         {
           "node_type": "item",
           "title": "awesome Information Retrieval",
-          "description": null,
+          "description": "harpribot/awesome-information-retrieval",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "German NLP resources",
-          "description": null,
+          "description": "adbar/German-NLP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "awesome-spanish-nlp",
-          "description": null,
+          "description": "dav009/awesome-spanish-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -584,7 +584,7 @@
         {
           "node_type": "item",
           "title": "awesome-nlp-polish",
-          "description": null,
+          "description": "ksopyla/awesome-nlp-polish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -610,7 +610,7 @@
         {
           "node_type": "item",
           "title": "Indonesian NLP",
-          "description": null,
+          "description": "kmkurn/id-nlp-resource",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,7 +635,7 @@
         {
           "node_type": "item",
           "title": "awesome-hungarian-nlp",
-          "description": null,
+          "description": "oroszgy/awesome-hungarian-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "Awesome Community-Curated NLP List",
-          "description": null,
+          "description": "alvations/awesome-community-curated-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,7 +702,7 @@
         {
           "node_type": "item",
           "title": "awesome-danish",
-          "description": null,
+          "description": "fnielsen/awesome-danish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -727,7 +727,7 @@
         {
           "node_type": "item",
           "title": "Norwegian NLP resources",
-          "description": null,
+          "description": "web64/norwegian-nlp-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:39:14.998Z",
+    "last_updated": "2026-10-03T04:55:48.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
