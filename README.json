@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10881,
+            "stars": 10882,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T20:19:25Z",
-            "open_issues": 1370,
+            "open_issues": 1375,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19150,
+            "stars": 19154,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22950,
+            "stars": 22948,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19054,
+            "stars": 19057,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:32:15.905Z",
+    "last_updated": "2026-10-05T22:33:04.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
