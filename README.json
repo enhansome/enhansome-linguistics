@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T17:02:18Z",
-            "open_issues": 1341,
+            "open_issues": 1347,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19160,
+            "stars": 19163,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22949,
+            "stars": 22950,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 30,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19069,
+            "stars": 19072,
             "topics": [
               "awesome",
               "awesome-list",
@@ -548,7 +548,7 @@
             "open_issues": 1,
             "owner": "adbar",
             "repo": "German-NLP",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "computational-linguistics",
               "corpus-linguistics",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:00:12.664Z",
+    "last_updated": "2026-10-11T20:11:25.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
@@ -768,7 +768,7 @@
       "open_issues": 0,
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 457,
+      "stars": 458,
       "topics": [
         "awesome-list",
         "language",
