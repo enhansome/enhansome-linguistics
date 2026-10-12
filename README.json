@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10881,
+            "stars": 10880,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T17:02:18Z",
-            "open_issues": 1347,
+            "last_commit": "2026-10-12T14:52:07Z",
+            "open_issues": 1332,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19163,
+            "stars": 19166,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -448,11 +448,11 @@
             "id": 47184304,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-12T22:26:23Z",
+            "open_issues": 0,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19072,
+            "stars": 19071,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:11:25.483Z",
+    "last_updated": "2026-10-12T22:53:32.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
