@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-02-22T21:53:54Z",
-            "open_issues": 88,
+            "open_issues": 91,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10880,
+            "stars": 10881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T14:52:07Z",
-            "open_issues": 1332,
+            "last_commit": "2026-10-13T15:30:00Z",
+            "open_issues": 1320,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19166,
+            "stars": 19171,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19071,
+            "stars": 19072,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7919,
+            "stars": 7920,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -506,7 +506,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6001,
+            "stars": 6002,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:53:32.712Z",
+    "last_updated": "2026-10-13T21:10:52.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
