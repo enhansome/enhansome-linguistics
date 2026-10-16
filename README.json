@@ -61,7 +61,7 @@
             "id": 113453169,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T06:13:11Z",
+            "last_commit": "2026-10-15T20:30:51Z",
             "open_issues": 0,
             "owner": "mikahama",
             "repo": "uralicNLP",
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T15:58:40Z",
-            "open_issues": 1306,
+            "last_commit": "2026-10-16T15:14:52Z",
+            "open_issues": 1310,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19177,
+            "stars": 19183,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22952,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19076,
+            "stars": 19078,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:50:10.496Z",
+    "last_updated": "2026-10-16T19:31:04.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
