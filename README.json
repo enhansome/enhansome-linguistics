@@ -239,7 +239,7 @@
             "open_issues": 1310,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19183,
+            "stars": 19188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -452,7 +452,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19078,
+            "stars": 19080,
             "topics": [
               "awesome",
               "awesome-list",
@@ -740,7 +740,7 @@
             "open_issues": 1,
             "owner": "web64",
             "repo": "norwegian-nlp-resources",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "bokmal",
               "nlp",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:31:04.183Z",
+    "last_updated": "2026-10-17T18:24:43.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
