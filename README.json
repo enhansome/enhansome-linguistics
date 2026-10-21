@@ -15,8 +15,8 @@
             "id": 1714160,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-02-22T21:53:54Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-21T15:50:40Z",
+            "open_issues": 89,
             "owner": "NaturalNode",
             "repo": "natural",
             "stars": 10882,
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T16:29:07Z",
-            "open_issues": 1303,
+            "last_commit": "2026-10-21T12:29:50Z",
+            "open_issues": 1301,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19201,
+            "stars": 19205,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22952,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19091,
+            "stars": 19093,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7920,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -644,11 +644,11 @@
             "id": 88435597,
             "language": null,
             "license": null,
-            "last_commit": "2026-04-14T08:55:18Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-21T14:11:09Z",
+            "open_issues": 0,
             "owner": "oroszgy",
             "repo": "awesome-hungarian-nlp",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:58:08.144Z",
+    "last_updated": "2026-10-21T20:04:05.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
