@@ -15,7 +15,7 @@
             "id": 1714160,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:11:09Z",
+            "last_commit": "2026-10-24T17:25:50Z",
             "open_issues": 81,
             "owner": "NaturalNode",
             "repo": "natural",
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:42:25Z",
-            "open_issues": 1309,
+            "open_issues": 1311,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19214,
+            "stars": 19216,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22955,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 3,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19097,
+            "stars": 19100,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 10,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7920,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:55:23.743Z",
+    "last_updated": "2026-10-24T18:44:32.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
@@ -768,7 +768,7 @@
       "open_issues": 0,
       "owner": "theimpossibleastronaut",
       "repo": "awesome-linguistics",
-      "stars": 464,
+      "stars": 465,
       "topics": [
         "awesome-list",
         "language",
