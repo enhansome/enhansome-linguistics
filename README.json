@@ -15,11 +15,11 @@
             "id": 1714160,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T17:25:50Z",
-            "open_issues": 81,
+            "last_commit": "2026-10-25T11:29:43Z",
+            "open_issues": 79,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10882,
+            "stars": 10884,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T13:42:25Z",
-            "open_issues": 1311,
+            "open_issues": 1316,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19216,
+            "stars": 19219,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19100,
+            "stars": 19102,
             "topics": [
               "awesome",
               "awesome-list",
@@ -479,10 +479,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2023-07-27T02:54:52Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
+            "stars": 7922,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -506,7 +506,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6003,
+            "stars": 6005,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -545,7 +545,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-06T19:36:11Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "adbar",
             "repo": "German-NLP",
             "stars": 537,
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:44:32.336Z",
+    "last_updated": "2026-10-25T18:56:31.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",

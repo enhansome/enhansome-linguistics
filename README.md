@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,061 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 524,545 | 🐛 105 | 📅 2026-09-02
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -28,7 +28,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 
-* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,882 | 🐛 81 | 🌐 JavaScript | 📅 2026-10-24 - General natural language tools for Node.js.
+* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,884 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-25 - General natural language tools for Node.js.
 * [textblob-de](https://github.com/markuskiller/textblob-de) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-01-07 - Nice alternative for spacy (see above).
 * [UralicNLP](https://github.com/mikahama/uralicNLP) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2026-10-22 - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) ⚠️ Archived - Early linguistical analysis and natural language processing library for Haxe.
@@ -69,7 +69,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,216 | 🐛 1,311 | 🌐 Python | 📅 2026-10-23
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,219 | 🐛 1,316 | 🌐 Python | 📅 2026-10-23
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 23 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
@@ -123,12 +123,12 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 
-* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,956 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,100 | 🐛 3 | 📅 2026-10-12
-* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,921 | 🐛 10 | 📅 2023-07-27
-* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,003 | 🐛 12 | 📅 2023-02-15
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,957 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,102 | 🐛 4 | 📅 2026-10-12
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,922 | 🐛 11 | 📅 2023-07-27
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,005 | 🐛 12 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,207 | 🐛 10 | 📅 2023-04-20
-* [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 537 | 🐛 0 | 📅 2026-10-06
+* [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 537 | 🐛 1 | 📅 2026-10-06
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 352 | 🐛 9 | 📅 2024-01-09
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish) ⭐ 308 | 🐛 0 | 📅 2021-08-08
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource) ⭐ 289 | 🐛 1 | 📅 2022-01-18
@@ -147,4 +147,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
