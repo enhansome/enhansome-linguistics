@@ -107,7 +107,7 @@
             "open_issues": 0,
             "owner": "martijndeb",
             "repo": "haxe-linguistics",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "haxe",
               "library",
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T16:12:40Z",
-            "open_issues": 1314,
+            "last_commit": "2026-11-02T10:54:28Z",
+            "open_issues": 1310,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19246,
+            "stars": 19251,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22954,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -449,10 +449,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19119,
+            "stars": 19122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:26:17.564Z",
+    "last_updated": "2026-11-02T23:25:54.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
