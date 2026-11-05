@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T09:32:45Z",
-            "open_issues": 1316,
+            "last_commit": "2026-11-05T21:31:03Z",
+            "open_issues": 1305,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19257,
+            "stars": 19258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22958,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7918,
+            "stars": 7919,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -506,7 +506,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6010,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -527,7 +527,7 @@
             "open_issues": 10,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1208,
+            "stars": 1209,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -712,7 +712,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2024-12-11T13:08:59Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "fnielsen",
             "repo": "awesome-danish",
             "stars": 199,
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:48:58.284Z",
+    "last_updated": "2026-11-05T21:55:41.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
