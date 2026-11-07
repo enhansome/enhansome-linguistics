@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-26T07:31:15Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10882,
+            "stars": 10881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T15:40:19Z",
-            "open_issues": 1309,
+            "open_issues": 1310,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19263,
+            "stars": 19266,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -449,7 +449,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "keon",
             "repo": "awesome-nlp",
             "stars": 19136,
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7918,
+            "stars": 7919,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -524,7 +524,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-04-20T07:55:24Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
             "stars": 1209,
@@ -597,7 +597,7 @@
             "open_issues": 0,
             "owner": "ksopyla",
             "repo": "awesome-nlp-polish",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "datasets",
               "nlp",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:26:37.142Z",
+    "last_updated": "2026-11-07T20:09:19.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
