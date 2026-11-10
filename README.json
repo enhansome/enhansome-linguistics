@@ -19,7 +19,7 @@
             "open_issues": 79,
             "owner": "NaturalNode",
             "repo": "natural",
-            "stars": 10881,
+            "stars": 10883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T15:27:05Z",
+            "last_commit": "2026-11-10T14:45:18Z",
             "open_issues": 1314,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19270,
+            "stars": 19278,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22953,
+            "stars": 22955,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 11,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19142,
+            "stars": 19146,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7919,
+            "stars": 7921,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -648,7 +648,7 @@
             "open_issues": 0,
             "owner": "oroszgy",
             "repo": "awesome-hungarian-nlp",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:10:05.796Z",
+    "last_updated": "2026-11-10T21:45:58.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
