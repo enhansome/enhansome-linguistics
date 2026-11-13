@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-26T07:31:15Z",
-            "open_issues": 84,
+            "open_issues": 88,
             "owner": "NaturalNode",
             "repo": "natural",
             "stars": 10883,
@@ -61,7 +61,7 @@
             "id": 113453169,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T17:39:59Z",
+            "last_commit": "2026-11-13T20:55:38Z",
             "open_issues": 0,
             "owner": "mikahama",
             "repo": "uralicNLP",
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T16:20:04Z",
-            "open_issues": 1318,
+            "last_commit": "2026-11-13T10:51:22Z",
+            "open_issues": 1320,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19282,
+            "stars": 19283,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22955,
+            "stars": 22954,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19153,
+            "stars": 19154,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7920,
+            "stars": 7919,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:11:38.546Z",
+    "last_updated": "2026-11-13T21:55:17.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
