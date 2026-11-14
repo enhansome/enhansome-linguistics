@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-26T07:31:15Z",
-            "open_issues": 88,
+            "open_issues": 102,
             "owner": "NaturalNode",
             "repo": "natural",
             "stars": 10883,
@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T10:51:22Z",
-            "open_issues": 1320,
+            "open_issues": 1322,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19283,
+            "stars": 19285,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -452,7 +452,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19154,
+            "stars": 19158,
             "topics": [
               "awesome",
               "awesome-list",
@@ -506,7 +506,7 @@
             "open_issues": 13,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6012,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -623,7 +623,7 @@
             "open_issues": 1,
             "owner": "kmkurn",
             "repo": "id-nlp-resource",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "corpus-linguistics",
               "indonesian-language",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:55:17.007Z",
+    "last_updated": "2026-11-14T20:38:33.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
