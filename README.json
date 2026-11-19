@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-26T07:31:15Z",
-            "open_issues": 108,
+            "open_issues": 110,
             "owner": "NaturalNode",
             "repo": "natural",
             "stars": 10884,
@@ -235,11 +235,11 @@
             "id": 198616978,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T13:17:38Z",
-            "open_issues": 1324,
+            "last_commit": "2026-11-19T21:49:34Z",
+            "open_issues": 1322,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19289,
+            "stars": 19290,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -424,7 +424,7 @@
             "open_issues": 40,
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22957,
+            "stars": 22956,
             "topics": [
               "dialogue",
               "machine-learning",
@@ -452,7 +452,7 @@
             "open_issues": 16,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19173,
+            "stars": 19174,
             "topics": [
               "awesome",
               "awesome-list",
@@ -527,7 +527,7 @@
             "open_issues": 11,
             "owner": "harpribot",
             "repo": "awesome-information-retrieval",
-            "stars": 1210,
+            "stars": 1211,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:55:10.096Z",
+    "last_updated": "2026-11-19T23:00:03.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",
