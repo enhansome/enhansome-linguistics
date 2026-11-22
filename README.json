@@ -236,10 +236,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T17:08:58Z",
-            "open_issues": 1322,
+            "open_issues": 1324,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19297,
+            "stars": 19302,
             "topics": []
           },
           "first_seen": "2026-08-29T00:31:52.243Z"
@@ -452,7 +452,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19178,
+            "stars": 19180,
             "topics": [
               "awesome",
               "awesome-list",
@@ -482,7 +482,7 @@
             "open_issues": 11,
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7921,
+            "stars": 7922,
             "topics": [
               "chinese-nlp",
               "nlp"
@@ -544,8 +544,8 @@
             "id": 137056286,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-03T18:08:55Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-22T17:15:08Z",
+            "open_issues": 0,
             "owner": "adbar",
             "repo": "German-NLP",
             "stars": 540,
@@ -715,7 +715,7 @@
             "open_issues": 1,
             "owner": "fnielsen",
             "repo": "awesome-danish",
-            "stars": 199,
+            "stars": 200,
             "topics": [
               "awesome",
               "awesome-list",
@@ -756,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:36:12.411Z",
+    "last_updated": "2026-11-22T21:41:30.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of anything remotely related to linguistics",

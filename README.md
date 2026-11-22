@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,490 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,059 | 🐛 103 | 📅 2026-09-02
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -69,7 +69,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,297 | 🐛 1,322 | 🌐 Python | 📅 2026-11-20
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,302 | 🐛 1,324 | 🌐 Python | 📅 2026-11-20
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 22 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
@@ -124,17 +124,17 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Lists
 
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,178 | 🐛 1 | 📅 2026-11-20
-* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,921 | 🐛 11 | 📅 2023-07-27
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,180 | 🐛 1 | 📅 2026-11-20
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,922 | 🐛 11 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,011 | 🐛 13 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,213 | 🐛 11 | 📅 2023-04-20
-* [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 540 | 🐛 1 | 📅 2026-11-03
+* [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 540 | 🐛 0 | 📅 2026-11-22
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 352 | 🐛 9 | 📅 2024-01-09
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish) ⭐ 309 | 🐛 0 | 📅 2021-08-08
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource) ⭐ 290 | 🐛 1 | 📅 2022-01-18
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) ⭐ 287 | 🐛 0 | 📅 2026-10-21
 * [Awesome Community-Curated NLP List](https://github.com/alvations/awesome-community-curated-nlp) ⭐ 201 | 🐛 0 | 📅 2022-07-25
-* [awesome-danish](https://github.com/fnielsen/awesome-danish) ⭐ 199 | 🐛 1 | 📅 2024-12-11
+* [awesome-danish](https://github.com/fnielsen/awesome-danish) ⭐ 200 | 🐛 1 | 📅 2024-12-11
 * [Norwegian NLP resources](https://github.com/web64/norwegian-nlp-resources) ⭐ 183 | 🐛 1 | 📅 2021-03-24
 * [15 most popular books on good reads](https://www.goodreads.com/shelf/show/natural-language-processing)
 * GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
@@ -147,4 +147,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
