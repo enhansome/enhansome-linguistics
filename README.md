@@ -2,7 +2,7 @@
 
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,059 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,735 | 🐛 103 | 📅 2026-09-02
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -28,9 +28,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Platforms and toolkits
 
-* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,884 | 🐛 110 | 🌐 JavaScript | 📅 2026-10-26 - General natural language tools for Node.js.
+* [Natural](https://github.com/NaturalNode/natural) ⭐ 10,883 | 🐛 87 | 🌐 JavaScript | 📅 2026-10-26 - General natural language tools for Node.js.
 * [textblob-de](https://github.com/markuskiller/textblob-de) ⭐ 103 | 🐛 11 | 🌐 Python | 📅 2025-01-07 - Nice alternative for spacy (see above).
-* [UralicNLP](https://github.com/mikahama/uralicNLP) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+* [UralicNLP](https://github.com/mikahama/uralicNLP) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 * [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) ⚠️ Archived - Early linguistical analysis and natural language processing library for Haxe.
 * [tyo](https://github.com/mongsvo/tyo) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2025-02-11 - A utility for finding Typo-Bridges.
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing) - Tools for Analysing Research Data
@@ -69,7 +69,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,302 | 🐛 1,324 | 🌐 Python | 📅 2026-11-20
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,303 | 🐛 1,321 | 🌐 Python | 📅 2026-11-23
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 22 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
@@ -123,13 +123,13 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 
-* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,955 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,953 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 * [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,180 | 🐛 1 | 📅 2026-11-20
-* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,922 | 🐛 11 | 📅 2023-07-27
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,923 | 🐛 11 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 6,011 | 🐛 13 | 📅 2023-02-15
-* [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,213 | 🐛 11 | 📅 2023-04-20
+* [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,214 | 🐛 10 | 📅 2023-04-20
 * [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 540 | 🐛 0 | 📅 2026-11-22
-* [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 352 | 🐛 9 | 📅 2024-01-09
+* [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 352 | 🐛 8 | 📅 2024-01-09
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish) ⭐ 309 | 🐛 0 | 📅 2021-08-08
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource) ⭐ 290 | 🐛 1 | 📅 2022-01-18
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp) ⭐ 287 | 🐛 0 | 📅 2026-10-21
@@ -147,4 +147,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
